@@ -30,9 +30,13 @@ Este ejercicio ha sido hecho mediante Python 3.9.
 
 Puedes ver las dependencias en el archivo *requirements.txt*. Puedes instalar estos requerimientos a través de la línea `pip install -r /path/to/requirements.txt`
 
->beautifulsoup4==4.12.3
->geopandas==0.10.2
->pandas==2.0.3
->PyPDF2==3.0.1
->Requests==2.32.3
+> beautifulsoup4==4.12.3
+> 
+> geopandas==0.10.2
+> 
+> pandas==2.0.3
+> 
+> PyPDF2==3.0.1
+> 
+> Requests==2.32.3
 
